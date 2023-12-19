@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM jamesstow/gifplayer:latest
 COPY ./src /usr/share/nginx/html
