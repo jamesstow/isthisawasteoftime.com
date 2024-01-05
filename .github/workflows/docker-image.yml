@@ -14,8 +14,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    
     - name: Generate json file
-      run: ./generate-dataset.sh
+      run: |
+        sudo apt install libimage-exiftool-perl -y
+        ./generate-dataset.sh
     
     - name: Login to docker hub
       uses: docker/login-action@v3
