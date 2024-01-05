@@ -1,7 +1,67 @@
 [
-    {
-        "name": "test",
-        "url": "/yes.gif",
-        "durationMs": 3600
-    }
+  {
+    "name": "adam-sandler",
+    "url": "/content/gifs/adam-sandler.gif",
+    "lengthInMillis": "810"
+  },
+  {
+    "name": "antm",
+    "url": "/content/gifs/antm.gif",
+    "lengthInMillis": "1440"
+  },
+  {
+    "name": "brett-eldredge",
+    "url": "/content/gifs/brett-eldredge.gif",
+    "lengthInMillis": "1060"
+  },
+  {
+    "name": "christian-bale",
+    "url": "/content/gifs/christian-bale.gif",
+    "lengthInMillis": "2050"
+  },
+  {
+    "name": "elmo",
+    "url": "/content/gifs/elmo.gif",
+    "lengthInMillis": "2600"
+  },
+  {
+    "name": "lisa-kudrow",
+    "url": "/content/gifs/lisa-kudrow.gif",
+    "lengthInMillis": "2760"
+  },
+  {
+    "name": "nodding.dog",
+    "url": "/content/gifs/nodding.dog.gif",
+    "lengthInMillis": "3680"
+  },
+  {
+    "name": "nodding-toy",
+    "url": "/content/gifs/nodding-toy.gif",
+    "lengthInMillis": "860"
+  },
+  {
+    "name": "randy-savage",
+    "url": "/content/gifs/randy-savage.gif",
+    "lengthInMillis": "3910"
+  },
+  {
+    "name": "the-oc",
+    "url": "/content/gifs/the-oc.gif",
+    "lengthInMillis": "1000"
+  },
+  {
+    "name": "the-voice",
+    "url": "/content/gifs/the-voice.gif",
+    "lengthInMillis": "1120"
+  },
+  {
+    "name": "tipex",
+    "url": "/content/gifs/tipex.gif",
+    "lengthInMillis": "2070"
+  },
+  {
+    "name": "yes",
+    "url": "/content/gifs/yes.gif",
+    "lengthInMillis": "3600"
+  }
 ]
